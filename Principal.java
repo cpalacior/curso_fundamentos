@@ -10,6 +10,7 @@ public class Principal {
         Circulo circulo2 =new Circulo();
         circulo2.setRadio(15);
         System.out.println(circulo2.getRadio());
+        System.out.println(circulo2.getRadio());
     }
 }
 
